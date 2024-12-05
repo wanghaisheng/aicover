@@ -1,3 +1,5 @@
+2024-12-06
+
 # AI Cover
 
 AI Cover Generator by [aicover.design](https://aicover.design)
